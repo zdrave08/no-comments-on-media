@@ -219,13 +219,6 @@ GPL v2 or later - [https://www.gnu.org/licenses/gpl-2.0.html](https://www.gnu.or
 
 ---
 
-## 👨‍💻 Author
-
-**Bitwise Software**  
-GitHub: [@Bitwise-SoftwarePR](https://github.com/Bitwise-SoftwarePR)
-
----
-
 ## 🐛 Support
 
 For help:
@@ -269,7 +262,7 @@ cp -r NoCommentsOnMedia /path/to/wordpress/wp-content/plugins/
 
 ---
 
-**Made with ❤️ for the WordPress community by Bitwise Software**
+**Made with ❤️ for the WordPress community**
 
 ---
 
@@ -492,13 +485,6 @@ GPL v2 ili novija - [https://www.gnu.org/licenses/gpl-2.0.html](https://www.gnu.
 
 ---
 
-## 👨‍💻 Autor
-
-**Bitwise Software**  
-GitHub: [@Bitwise-SoftwarePR](https://github.com/Bitwise-SoftwarePR)
-
----
-
 ## 🐛 Podrška
 
 Za pomoć:
@@ -542,5 +528,5 @@ cp -r NoCommentsOnMedia /path/to/wordpress/wp-content/plugins/
 
 ---
 
-**Napravljen sa ❤️ za WordPress zajednicu od Bitwise Software**
+**Napravljen sa ❤️ za WordPress zajednicu**
 
