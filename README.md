@@ -2,7 +2,7 @@
 
 **Minimal WordPress plugin that automatically disables comments on media attachments.**
 
-[![WordPress Plugin Version](https://img.shields.io/badge/version-1.1.0-blue.svg)](https://github.com/Bitwise-SoftwarePR/NoCommentsOnMedia)
+[![WordPress Plugin Version](https://img.shields.io/badge/version-1.1.0-blue.svg)](https://github.com/zdrave08/no-comments-on-media)
 [![WordPress Compatibility](https://img.shields.io/badge/wordpress-6.0%2B-brightgreen.svg)](https://wordpress.org/)
 [![PHP Version](https://img.shields.io/badge/php-8.0%2B-purple.svg)](https://php.net/)
 [![License](https://img.shields.io/badge/license-GPLv2-red.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
@@ -221,8 +221,8 @@ GPL v2 or later - [https://www.gnu.org/licenses/gpl-2.0.html](https://www.gnu.or
 
 ## 👨‍💻 Author
 
-**Bitwise Software**  
-GitHub: [@Bitwise-SoftwarePR](https://github.com/Bitwise-SoftwarePR)
+**Zdravko Lukic**  
+GitHub: [@zdrave08](https://github.com/zdrave08)
 
 ---
 
@@ -230,7 +230,7 @@ GitHub: [@Bitwise-SoftwarePR](https://github.com/Bitwise-SoftwarePR)
 
 For help:
 
-- **GitHub Issues:** [github.com/Bitwise-SoftwarePR/NoCommentsOnMedia/issues](https://github.com/Bitwise-SoftwarePR/NoCommentsOnMedia/issues)
+- **GitHub Issues:** [github.com/zdrave08/no-comments-on-media/issues](https://github.com/zdrave08/no-comments-on-media/issues)
 - **WordPress.org Support:** [wordpress.org/support/plugin/no-comments-on-media/](https://wordpress.org/support/plugin/no-comments-on-media/)
 
 ---
@@ -243,7 +243,7 @@ Pull requests are welcome! For major changes, please open an issue first.
 
 ```bash
 # Clone repository
-git clone https://github.com/Bitwise-SoftwarePR/NoCommentsOnMedia.git
+git clone https://github.com/zdrave08/no-comments-on-media.git
 
 # Install in WordPress
 cp -r NoCommentsOnMedia /path/to/wordpress/wp-content/plugins/
@@ -269,13 +269,13 @@ cp -r NoCommentsOnMedia /path/to/wordpress/wp-content/plugins/
 
 ---
 
-**Made with ❤️ for the WordPress community by Bitwise Software**
+**Made with ❤️ for the WordPress community**
 
 ---
 
 # No Comments on Media (Serbian)
 
-[![WordPress Plugin Version](https://img.shields.io/badge/version-1.1.0-blue.svg)](https://github.com/Bitwise-SoftwarePR/NoCommentsOnMedia)
+[![WordPress Plugin Version](https://img.shields.io/badge/version-1.1.0-blue.svg)](https://github.com/zdrave08/no-comments-on-media)
 [![WordPress Compatibility](https://img.shields.io/badge/wordpress-6.0%2B-brightgreen.svg)](https://wordpress.org/)
 [![PHP Version](https://img.shields.io/badge/php-8.0%2B-purple.svg)](https://php.net/)
 [![License](https://img.shields.io/badge/license-GPLv2-red.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
@@ -494,8 +494,8 @@ GPL v2 ili novija - [https://www.gnu.org/licenses/gpl-2.0.html](https://www.gnu.
 
 ## 👨‍💻 Autor
 
-**Bitwise Software**  
-GitHub: [@Bitwise-SoftwarePR](https://github.com/Bitwise-SoftwarePR)
+**Zdravko Lukic**  
+GitHub: [@zdrave08](https://github.com/zdrave08)
 
 ---
 
@@ -503,7 +503,7 @@ GitHub: [@Bitwise-SoftwarePR](https://github.com/Bitwise-SoftwarePR)
 
 Za pomoć:
 
-- **GitHub Issues:** [github.com/Bitwise-SoftwarePR/NoCommentsOnMedia/issues](https://github.com/Bitwise-SoftwarePR/NoCommentsOnMedia/issues)
+- **GitHub Issues:** [github.com/zdrave08/no-comments-on-media/issues](https://github.com/zdrave08/no-comments-on-media/issues)
 - **WordPress.org Support:** [wordpress.org/support/plugin/no-comments-on-media/](https://wordpress.org/support/plugin/no-comments-on-media/)
 
 ---
@@ -516,7 +516,7 @@ Pull requests su dobrodošli! Za veće izmene, molimo prvo otvorite issue.
 
 ```bash
 # Clone repository
-git clone https://github.com/Bitwise-SoftwarePR/NoCommentsOnMedia.git
+git clone https://github.com/zdrave08/no-comments-on-media.git
 
 # Install u WordPress
 cp -r NoCommentsOnMedia /path/to/wordpress/wp-content/plugins/
@@ -542,5 +542,5 @@ cp -r NoCommentsOnMedia /path/to/wordpress/wp-content/plugins/
 
 ---
 
-**Napravljen sa ❤️ za WordPress zajednicu od Bitwise Software**
+**Napravljen sa ❤️ za WordPress zajednicu**
 
