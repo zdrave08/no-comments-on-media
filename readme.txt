@@ -179,4 +179,4 @@ Initial release of No Comments on Media plugin.
 
 == Support ==
 
-For support, please visit the [plugin support forum](https://wordpress.org/support/plugin/no-comments-on-media/) or [GitHub repository](https://github.com/Bitwise-SoftwarePR/NoCommentsOnMedia).
+For support, please visit the [plugin support forum](https://wordpress.org/support/plugin/no-comments-on-media/) or [GitHub repository](https://github.com/zdrave08/no-comments-on-media).
