@@ -1,5 +1,4 @@
 === No Comments on Media ===
-Contributors: bitwisesoftware
 Tags: comments, media, attachments, disable comments, remove comments
 Requires at least: 6.0
 Tested up to: 7.1
@@ -180,8 +179,4 @@ Initial release of No Comments on Media plugin.
 
 == Support ==
 
-For support, please visit the [plugin support forum](https://wordpress.org/support/plugin/no-comments-on-media/) or [GitHub repository](https://github.com/Bitwise-SoftwarePR/NoCommentsOnMedia).
-
-== Credits ==
-
-Developed by [Bitwise Software](https://github.com/Bitwise-SoftwarePR)
+For support, please visit the [plugin support forum](https://wordpress.org/support/plugin/no-comments-on-media/) or [GitHub repository](https://github.com/zdrave08/no-comments-on-media).
