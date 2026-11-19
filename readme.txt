@@ -1,5 +1,4 @@
 === No Comments on Media ===
-Contributors: bitwisesoftware
 Tags: comments, media, attachments, disable comments, remove comments
 Requires at least: 6.0
 Tested up to: 7.1
