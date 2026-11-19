@@ -2,9 +2,9 @@
 
 **Minimal WordPress plugin that automatically disables comments on media attachments.**
 
-[![WordPress Plugin Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/Bitwise-SoftwarePR/NoCommentsOnMedia)
-[![WordPress Compatibility](https://img.shields.io/badge/wordpress-5.0%2B-brightgreen.svg)](https://wordpress.org/)
-[![PHP Version](https://img.shields.io/badge/php-7.0%2B-purple.svg)](https://php.net/)
+[![WordPress Plugin Version](https://img.shields.io/badge/version-1.1.0-blue.svg)](https://github.com/Bitwise-SoftwarePR/NoCommentsOnMedia)
+[![WordPress Compatibility](https://img.shields.io/badge/wordpress-6.0%2B-brightgreen.svg)](https://wordpress.org/)
+[![PHP Version](https://img.shields.io/badge/php-8.0%2B-purple.svg)](https://php.net/)
 [![License](https://img.shields.io/badge/license-GPLv2-red.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
 
 ---
@@ -169,8 +169,8 @@ no-comments-on-media/
 
 ## 📋 Requirements
 
-- **WordPress:** 5.0 or newer
-- **PHP:** 7.0 or newer
+- **WordPress:** 6.0 or newer (tested up to 7.1)
+- **PHP:** 8.0 or newer
 - **MySQL:** 5.6 or newer (WordPress standard)
 
 ---
@@ -253,6 +253,11 @@ cp -r NoCommentsOnMedia /path/to/wordpress/wp-content/plugins/
 
 ## 📝 Changelog
 
+### 1.1.0 - 2026-11-19
+- Requires PHP 8.0+ and WordPress 6.0+
+- Tested up to WordPress 7.1
+- LICENSE file is now GPLv2, matching the plugin header
+
 ### 1.0.0 - 2025-11-18
 - 🎉 Initial release
 - ✅ Disable comments and pingbacks/trackbacks on media attachments
@@ -270,9 +275,9 @@ cp -r NoCommentsOnMedia /path/to/wordpress/wp-content/plugins/
 
 # No Comments on Media (Serbian)
 
-[![WordPress Plugin Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/Bitwise-SoftwarePR/NoCommentsOnMedia)
-[![WordPress Compatibility](https://img.shields.io/badge/wordpress-5.0%2B-brightgreen.svg)](https://wordpress.org/)
-[![PHP Version](https://img.shields.io/badge/php-7.0%2B-purple.svg)](https://php.net/)
+[![WordPress Plugin Version](https://img.shields.io/badge/version-1.1.0-blue.svg)](https://github.com/Bitwise-SoftwarePR/NoCommentsOnMedia)
+[![WordPress Compatibility](https://img.shields.io/badge/wordpress-6.0%2B-brightgreen.svg)](https://wordpress.org/)
+[![PHP Version](https://img.shields.io/badge/php-8.0%2B-purple.svg)](https://php.net/)
 [![License](https://img.shields.io/badge/license-GPLv2-red.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
 
 ---
@@ -437,8 +442,8 @@ no-comments-on-media/
 
 ## 📋 Zahtevi
 
-- **WordPress:** 5.0 ili noviji
-- **PHP:** 7.0 ili noviji
+- **WordPress:** 6.0 ili noviji (testirano do 7.1)
+- **PHP:** 8.0 ili noviji
 - **MySQL:** 5.6 ili noviji (standard za WordPress)
 
 ---
@@ -520,6 +525,11 @@ cp -r NoCommentsOnMedia /path/to/wordpress/wp-content/plugins/
 ---
 
 ## 📝 Changelog
+
+### 1.1.0 - 2026-11-19
+- Zahteva PHP 8.0+ i WordPress 6.0+
+- Testirano do WordPress 7.1
+- LICENSE fajl je sada GPLv2, u skladu sa zaglavljem plugina
 
 ### 1.0.0 - 2025-11-18
 - 🎉 Initial release

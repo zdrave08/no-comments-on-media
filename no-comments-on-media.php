@@ -3,14 +3,14 @@
  * Plugin Name: No Comments on Media
  * Plugin URI: https://github.com/Bitwise-SoftwarePR/NoCommentsOnMedia
  * Description: Disables comments on all media attachments. Simple, lightweight, effective.
- * Version: 1.0.0
+ * Version: 1.1.0
  * Author: Bitwise Software
  * Author URI: https://bitwisesoftware.rs
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: no-comments-on-media
- * Requires at least: 5.0
- * Requires PHP: 7.0
+ * Requires at least: 6.0
+ * Requires PHP: 8.0
  */
 
 // Exit if accessed directly
