@@ -1,10 +1,10 @@
 === No Comments on Media ===
 Contributors: bitwisesoftware
 Tags: comments, media, attachments, disable comments, remove comments
-Requires at least: 5.0
-Tested up to: 6.8
-Stable tag: 1.0.0
-Requires PHP: 7.0
+Requires at least: 6.0
+Tested up to: 7.1
+Stable tag: 1.1.0
+Requires PHP: 8.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -156,6 +156,11 @@ The deletion option permanently removes comments from the database and cannot be
 
 == Changelog ==
 
+= 1.1.0 - 2026-11-19 =
+* Requires PHP 8.0 or newer (was 7.0) and WordPress 6.0 or newer
+* Tested up to WordPress 7.1
+* LICENSE file is now GPLv2, matching the plugin header (it was MIT by mistake)
+
 = 1.0.0 - 2025-11-18 =
 * Initial release
 * Disable comments and pingbacks/trackbacks on media attachments
@@ -166,6 +171,9 @@ The deletion option permanently removes comments from the database and cannot be
 * Automatic closure of comments on existing attachments during activation
 
 == Upgrade Notice ==
+
+= 1.1.0 =
+Requires PHP 8.0+ and WordPress 6.0+. Check your server's PHP version before updating.
 
 = 1.0.0 =
 Initial release of No Comments on Media plugin.
